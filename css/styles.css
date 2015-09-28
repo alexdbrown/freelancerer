@@ -1,0 +1,20 @@
+.back {
+    background: url("http://static.squarespace.com/static/53019bf4e4b0c6ad9e40d7b4/t/5301b274e4b016fa7cab900f/1392620148313/portland.jpg") no-repeat fixed center;
+    height: 200px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    background-size: 100% 100%;
+}
+
+.jumbotron {
+  background: transparent;
+}
+
+
+.white {
+  max-width: 100%;
+  height: 100px;
+  background-color: white;
+}
